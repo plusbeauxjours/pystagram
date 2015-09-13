@@ -12,8 +12,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'pystagram1_db',
-        'USER': 'ubuntu',
-        'PASSWORD': 'mypassword',
+        'USER': 'ubuntu1',
+        'PASSWORD': 'mypassword1',
         'HOST': '127.0.0.1',
     },
 }
